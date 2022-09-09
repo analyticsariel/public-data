@@ -1,4 +1,4 @@
-street_address,city,state,resoFacts.lotSize,annual_tax,last_sold
+street_address,city,state,lot_size,annual_tax,last_sold
 695 S El Cielo Rd,Palm Springs,CA,0.26 Acres,10487,
 74820 Chateau Cir,Indian Wells,CA,"2,685 sqft",4947,
 1441 E Padua Way,Palm Springs,CA,"7,840 sqft",3855,3/18/94
